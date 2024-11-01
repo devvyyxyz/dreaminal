@@ -53,10 +53,10 @@ url: https://github.com/devvyyxyz/dreaminal-linux-guide            # The base UR
 
 branding:
   title: Dreaminal Linux Guide
-  logo: 
-  logoDark: 
+  logo: assets/steam.png
+  logoDark: assets/steam.png
   logoAlign: left            # Align the logo to the right or the left
-  label:                  # Optional label
+  label: GUIDE
                               # To remove the label, remove this config
   colors:
     label:                    # Label colors
@@ -125,7 +125,7 @@ exclude:                      # Files or folders to exclude from the build
 
 # -----------------------------------------------------------------------------
 
-favicon: static/favicon.png   # Path to a custom favicon, or
+favicon: assets/steam.png   # Path to a custom favicon, or
                               # just put a favicon.ico in your project root
 
 # -----------------------------------------------------------------------------
